@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using System.Linq;2
+using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 
