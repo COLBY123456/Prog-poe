@@ -4,7 +4,7 @@ This is a recipe application that allows users to manage recipes and their ingre
 
 ## How to Compile and Run
 
-1. Clone the GitHub repository: [link-to-your-repository]
+1. Clone the GitHub repository: [https://github.com/COLBY123456/Prog-poe.git]
 2. Open the solution file (.sln) in Visual Studio.
 3. Build the solution to restore NuGet packages and compile the code.
 4. Run the application.
