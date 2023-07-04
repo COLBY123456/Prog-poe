@@ -1,4 +1,4 @@
-<Window x:Class="RecipeApp.RecipeDetailsWindow"
+<Window x:Class="RecipeApp.RecipeDetailsWindow"2
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Recipe Details" Height="450" Width="600">
