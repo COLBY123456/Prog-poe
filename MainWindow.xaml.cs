@@ -69,6 +69,7 @@ namespace RecipeApp
     {
         public string Name { get; set; }
         public List<Ingredient> Ingredients { get; set; }
+        public List<string> Steps { get; set; }
 
         public int TotalCalories
         {
@@ -79,6 +80,7 @@ namespace RecipeApp
         {
             Name = name;
             Ingredients = new List<Ingredient>();
+            Steps = new List<string>();
         }
     }
 
